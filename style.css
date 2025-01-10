@@ -258,7 +258,7 @@ display: none;
 
 .parent-right-contents{
     display: flex;
-    gap: 50px;
+    gap: 30px;
     padding: 10px;
     overflow-x: scroll;
     
@@ -287,7 +287,7 @@ display: none;
 
 .parent-right-contents-songs{
     display: flex;
-    gap: 40px;
+    gap: 20px;
     padding: 10px;
     overflow-x: scroll;
 }
